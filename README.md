@@ -1,4 +1,4 @@
-Problem Statement
+- Problem Statement
 	
 -Firstly, since the start of the operation of the shop, the first problem was that he did not have any computerized system to record every single transaction and there were many mistakes made.
   
@@ -9,10 +9,10 @@ Problem Statement
 
 
 
-Objective of the Project 
+- Objective of the Project 
 
 
-- objective of this project is to develop a management information system in which will solve the shop owner’s problem
+-objective of this project is to develop a management information system in which will solve the shop owner’s problem
 
 -Besides that, this project also taught students about the importance of system analysis and design to a system analyst.
 
